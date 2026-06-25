@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <img src="screenshots/mainpage.png" width="200" style="border-radius:26px;"/>
   <img src="screenshots/player_blur.png" width="200" style="border-radius:26px;"/>
   <img src="screenshots/player_gradient.png" width="200" style="border-radius:26px;"/>
   <img src="screenshots/lyrics.png" width="200" style="border-radius:26px;"/>
