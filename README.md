@@ -1,4 +1,4 @@
-# Spot 🎵
+# Spot Player🎵
 
 <p align="center">
   <strong>A beautiful and lightweight Android music player built with Jetpack Compose</strong><br>
