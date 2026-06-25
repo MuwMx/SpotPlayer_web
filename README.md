@@ -43,7 +43,7 @@ This is a personal, independent project. New features, bug fixes, and stability 
 
 The application is distributed as a ready-to-use APK exclusively through the official community channel.
 
-1. Open the [Telegram Channel](https://t.me/spot_app_player).
+1. Open the [Telegram Channel](https://t.me/spot_app_player) or [Mega drive](https://mega.nz/file/V2YjmJbC#HHuQJXS_PNNT5K79isO-vk5FrZT_jGt3mDZBk_yPc0A).
 2. Download the latest compiled `.apk` file from the pinned messages.
 3. Allow installation from unknown sources in your device settings if prompted, and install the app.
 
