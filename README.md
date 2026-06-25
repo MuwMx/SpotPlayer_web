@@ -1,8 +1,8 @@
 # Spot 🎵
 
 <p align="center">
-  <strong>A premium, feature-rich Android client for music web services</strong><br>
-  Built from scratch using a modern Android stack, clean architecture, and an optimized WebView core.
+  <strong>A beautiful and lightweight Android music player built with Jetpack Compose</strong><br>
+  A premium, distraction-free player experience built on top of a customized web engine.
 </p>
 
 <p align="center">
@@ -16,64 +16,47 @@
         <img src="https://img.shields.io/badge/Telegram-Official%20Channel-26A6E4?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
     <img src="https://img.shields.io/badge/Android-11%2B-green?style=for-the-badge&logo=android" alt="Android 11+">
-    <img src="https://img.shields.io/badge/Kotlin-100%25-purple?style=for-the-badge&logo=kotlin" alt="Kotlin">
+    <img src="https://img.shields.io/badge/User%20Interface-Jetpack%20Compose-purple?style=for-the-badge&logo=jetpackcompose" alt="Jetpack Compose">
 </p>
-
----
-
-## ‼️ Disclaimer
-- This is a standalone, third-party application. This repository serves strictly as a project passport and architecture showcase. No source code or build support is provided here. All binary updates are distributed exclusively through the community channel.
 
 ---
 
 ## ✨ Features
 
-### 🎨 Next-Gen UI/UX
-- **Dynamic Monet Engine** — Implements Google’s Material You advanced color extraction, blending the entire UI theme with the current track's artwork.
-- **Dual Presentation Themes** — Switch instantly between an ultra-clean minimalist Gradient look and an immersive, hardware-accelerated Blur theme.
-- **Edge-Faded Typography** — Canvas-based horizontal растворение (Marquee) for long titles, providing elegant layout protection without truncated text.
-- **Fluid Micro-Interactions** — Spring-physics driven animations, touch-zone layout offsets, and gesture-responsive sliding sheets.
-
-### ⚡ Smart Web Engine & Ad-Blocking
-- **Three-Tier Ads Watchdog** — Integrated background interceptor that instantly neutralizes audio ads, blocks network tracking hosts, and reactive-hides DOM banner elements via custom JS/CSS injections.
-- **Bi-Directional JavaScript Bridge** — Zero-latency reactive communication channel between Chromium and native Kotlin to synchronize player states in real-time.
-- **Flawless Background Playback** — Heavily tuned lifecycle management that prevents the Android system from killing the audio stream when minimized or locked.
-
-### 🎤 Interactive Lyrics Engine (YT Music Style)
-- **Multi-Strategy API Fetching** — Concurrent multi-thread network requests (`lrclib`) with smart full-text token scoring and automated Unicode (Japanese/Cyrillic) sanitization.
-- **Click-to-Seek Navigation** — Instantly navigate through the song's timeline by tapping directly on any specific text line.
-- **Smooth Auto-Scrolling** — Adaptive viewport tracking with built-in protection that pauses automatic centering whenever manual user scrolling is in progress.
-- **Two-Layer Caching** — Lightning-fast in-memory `LruCache` paired with local JSON disk serialization and automatic legacy cache migration.
-
-### ⚙️ Maintenance & System Control
-- **MediaSession Core** — Complete native integration with the Android system notification drawer, lock screen controllers, and system media widgets.
-- **Remote Update System** — GitHub/Netlify JSON-driven version manager supporting both soft update prompts and critical blocking overlays.
+* **Flawless Background Play** — Audio streams smoothly when the app is minimized or the screen is locked. The system won't kill the playback.
+* **Persistent Session** — Keeps you logged into your account securely without unexpected or random logouts.
+* **No Advertisements** — Built-in ad-blocking engine automatically skips audio ads and removes visual banners on the fly.
+* **Responsive Media Controls** — Fully integrates with the Android system notification drawer, lock screen controllers, and system media widgets for easy track switching.
+* **Immersive Visuals** — The interface automatically extracts colors from the track artwork and adapts the background theme dynamically.
+* **Synchronized Lyrics** — Built-in support for scrolling lyrics with click-to-seek navigation (jump to any part of the song by tapping a line).
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## 🚀 Future & Updates
 
-The internal infrastructure of the project is built upon rigorous production-grade patterns, ensuring loose coupling and absolute separation of concerns:
-
-- **Clean Architecture & UDF** — Complete separation into decoupled Data, UI (Presentation), and Web-Engine layers guided by Unidirectional Data Flow.
-- **Asynchronous Flow** — Driven entirely by Kotlin Coroutines, StateFlow, and high-speed Channels for non-blocking concurrent operations.
-- **Tech Stack Core** — Jetpack Compose, Modern WebView Engine, Custom Monet Integration, Coroutines, OkHttp, Gson.
+This is a personal, independent project. New features, bug fixes, and stability improvements will be released progressively whenever the developer has free time.
 
 ---
 
-## 📥 Download & Community
+## 📥 Download & Installation
 
-All production-ready stable `.apk` binaries are distributed exclusively via the community channel.
+The application is distributed as a ready-to-use APK exclusively through the official community channel.
 
-1. Go to the official [Telegram Channel](https://t.me/spot_app_player).
-2. Download the latest compiled package from the pinned release messages.
-3. Grant installation permissions for unknown sources in your Android settings and launch the app.
+1. Open the [Telegram Channel](https://t.me/spot_app_player).
+2. Download the latest compiled `.apk` file from the pinned messages.
+3. Allow installation from unknown sources in your device settings if prompted, and install the app.
 
 ---
 
-## 🔒 Legal Notice
+## 🔒 Disclaimer
 
-This software is an independent browser wrapper built for educational purposes and personal interface optimization. It works strictly as a client-side layout customizer and does not bypass subscription barriers, modify server data, or breach web protocols.
+This is a third-party application developed for educational and personal customization purposes. It acts as a custom browser wrapper around publicly accessible web interfaces.
 
-- Spot is not affiliated with, maintained by, or endorsed by any official music streaming services.
-- All product names, trademarks, and registered logos are property of their respective owners.
+* The app does not modify server-side data, bypass authentication barriers, or violate standard network protocols.
+* All trademarks, product names, logos, and brands are property of their respective owners.
+
+---
+
+<p align="center">
+  Made with ❤️ for premium mobile playback experience
+</p>
