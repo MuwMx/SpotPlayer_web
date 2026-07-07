@@ -1,7 +1,7 @@
 # Spot Player🎵
 <p align="center">
   <strong>⚠️The project is in the archive. Spotify has blocked the web versions of the mods⚠️
-  The project is archived. Spotify has blocked the web versions of the mods. For more details, visit the official Telegram channel at https://t.me/spot_app_player</strong>
+  For more details, visit the official Telegram channel at https://t.me/spot_app_player</strong>
 </p>
 <p align="center">
   <strong>A beautiful and lightweight Android music player built with Jetpack Compose</strong><br>
