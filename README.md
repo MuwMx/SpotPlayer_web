@@ -1,5 +1,5 @@
 # Spot Player🎵
-
+#⚠️The project is in the archive. Spotify has blocked the web versions of the mods⚠️
 <p align="center">
   <strong>A beautiful and lightweight Android music player built with Jetpack Compose</strong><br>
   A premium, distraction-free player experience built on top of a customized web engine.
