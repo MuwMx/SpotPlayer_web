@@ -1,6 +1,6 @@
 # Spot Player🎵
 <p align="center">
-  <strong>⚠️The project is in the archive. Spotify has blocked the web versions of the mods⚠️<br>
+  <strong>⚠️The project is in the archive. Spotify has blocked the web versions of the mods⚠️
   For more details, visit the official Telegram channel at  <a href="https://t.me/spot_app_player" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-Official%20Channel-26A6E4?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
