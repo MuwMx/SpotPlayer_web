@@ -1,7 +1,7 @@
 # Spot Player🎵
 <p align="center">
   <strong>⚠️The project is in the archive. Spotify has blocked the web versions of the mods⚠️
-  For more details, visit the official Telegram channel <a href="https://t.me/spot_app_player" target="_blank">
+  For more details, visit the official Telegram channel <a href="https://t.me/yumaplayer" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-Official%20Channel-26A6E4?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
   </strong>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <a href="https://t.me/spot_app_player" target="_blank">
+    <a href="https://t.me/yumaplayer" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-Official%20Channel-26A6E4?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
     <img src="https://img.shields.io/badge/Android-11%2B-green?style=for-the-badge&logo=android" alt="Android 11+">
@@ -49,7 +49,7 @@ This is a personal, independent project. New features, bug fixes, and stability 
 
 The application is distributed as a ready-to-use APK exclusively through the official community channel.
 
-1. Open the [Telegram Channel](https://t.me/spot_app_player) or [Mega drive](https://mega.nz/file/V2YjmJbC#HHuQJXS_PNNT5K79isO-vk5FrZT_jGt3mDZBk_yPc0A).
+1. Open the [Telegram Channel](https://t.me/yumaplayer) or [Mega drive](https://mega.nz/file/V2YjmJbC#HHuQJXS_PNNT5K79isO-vk5FrZT_jGt3mDZBk_yPc0A).
 2. Download the latest compiled `.apk` file from the pinned messages.
 3. Allow installation from unknown sources in your device settings if prompted, and install the app.
 
